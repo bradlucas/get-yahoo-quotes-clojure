@@ -1,10 +1,11 @@
 # get-yahoo-quotes-clojure
 
-A Clojure library designed to ... well, that part is up to you.
+A Clojure library to downoad Yahoo quotes which works with the new cookie authorized page.
 
-## Usage
+This repo has an associated blog post available here:
 
-FIXME
+[http://blog.bradlucas.com/posts/2017-06-05-yahoo-finance-quote-download-clojure/](http://blog.bradlucas.com/posts/2017-06-05-yahoo-finance-quote-download-clojure/)
+
 
 ## License
 
